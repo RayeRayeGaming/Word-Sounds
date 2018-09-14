@@ -1,0 +1,23 @@
+Symbol range map extraction starting
+Processing 7 files
+startProcessing "com\rayeart\wordsounds\Main.java" md5: fb0de5cd70183068cb31934668d74ee0
+endProcessing "com\rayeart\wordsounds\Main.java"
+
+startProcessing "com\rayeart\wordsounds\proxy\ClientProxy.java" md5: 2e24c22920d221616dc24bc6605fae86
+endProcessing "com\rayeart\wordsounds\proxy\ClientProxy.java"
+
+startProcessing "com\rayeart\wordsounds\proxy\CommonProxy.java" md5: 06efd7f0034486baa3b1ebe5db6bf1d8
+endProcessing "com\rayeart\wordsounds\proxy\CommonProxy.java"
+
+startProcessing "com\rayeart\wordsounds\util\Reference.java" md5: abddce4682dbd43d48b8e422f8a3e7ff
+endProcessing "com\rayeart\wordsounds\util\Reference.java"
+
+startProcessing "com\rayeart\wordsounds\util\handlers\ChatTestHandler.java" md5: d88836bd1175c0a836a14fcf9445bea2
+endProcessing "com\rayeart\wordsounds\util\handlers\ChatTestHandler.java"
+
+startProcessing "com\rayeart\wordsounds\util\handlers\RegistryHandler.java" md5: 297e25025ff23ae89e10353d28126dd7
+endProcessing "com\rayeart\wordsounds\util\handlers\RegistryHandler.java"
+
+startProcessing "com\rayeart\wordsounds\util\handlers\SoundsHandler.java" md5: 61060daa98ae48f3ecd83c011b3b158b
+endProcessing "com\rayeart\wordsounds\util\handlers\SoundsHandler.java"
+

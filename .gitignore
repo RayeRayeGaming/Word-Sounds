@@ -1,22 +1,22 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
 
-# idea
-out
-*.ipr
-*.iws
-*.iml
-.idea
+run/
 
-# gradle
-build
-.gradle
+eclipse/
 
-# other
-eclipse
-run
+\.metadata/
+
+\.gradle/
+
+\.settings/
+
+Word-Sounds_Client\.launch
+
+Word-Sounds_Server\.launch
+
+\.project
+
+\.classpath
+
+WordSounds_Client\.launch
+
+WordSounds_Server\.launch

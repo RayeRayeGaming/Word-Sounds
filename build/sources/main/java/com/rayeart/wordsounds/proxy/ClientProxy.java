@@ -1,0 +1,7 @@
+package com.rayeart.wordsounds.proxy;
+
+
+public class ClientProxy extends CommonProxy 
+{
+
+}

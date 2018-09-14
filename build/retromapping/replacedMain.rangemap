@@ -1,0 +1,187 @@
+Symbol range map extraction starting
+Processing 7 files
+startProcessing "com\rayeart\wordsounds\Main.java" md5: fb0de5cd70183068cb31934668d74ee0
+@|com\rayeart\wordsounds\Main.java|8|30|com.rayeart.wordsounds|package|com.rayeart.wordsounds|(file)
+Class Start: com.rayeart.wordsounds.Main
+   @|com\rayeart\wordsounds\Main.java|766|769|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\rayeart\wordsounds\Main.java|770|775|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\rayeart\wordsounds\Main.java|778|787|Reference|class|com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\Main.java|788|794|MOD_ID|field|com.rayeart.wordsounds.util.Reference|MOD_ID
+   @|com\rayeart\wordsounds\Main.java|796|800|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\rayeart\wordsounds\Main.java|803|812|Reference|class|com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\Main.java|813|817|NAME|field|com.rayeart.wordsounds.util.Reference|NAME
+   @|com\rayeart\wordsounds\Main.java|819|826|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\rayeart\wordsounds\Main.java|829|838|Reference|class|com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\Main.java|839|846|VERSION|field|com.rayeart.wordsounds.util.Reference|VERSION
+   @|com\rayeart\wordsounds\Main.java|861|865|Main|class|com.rayeart.wordsounds.Main
+   @|com\rayeart\wordsounds\Main.java|896|900|Main|class|com.rayeart.wordsounds.Main
+   @|com\rayeart\wordsounds\Main.java|872|880|Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\rayeart\wordsounds\Main.java|896|900|Main|class|com.rayeart.wordsounds.Main
+   @|com\rayeart\wordsounds\Main.java|901|909|instance|field|com.rayeart.wordsounds.Main|instance|
+   @|com\rayeart\wordsounds\Main.java|1027|1038|CommonProxy|class|com.rayeart.wordsounds.proxy.CommonProxy
+   @|com\rayeart\wordsounds\Main.java|915|925|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\rayeart\wordsounds\Main.java|926|936|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\rayeart\wordsounds\Main.java|939|948|Reference|class|com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\Main.java|949|967|CLIENT_PROXY_CLASS|field|com.rayeart.wordsounds.util.Reference|CLIENT_PROXY_CLASS
+   @|com\rayeart\wordsounds\Main.java|969|979|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\rayeart\wordsounds\Main.java|982|991|Reference|class|com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\Main.java|992|1010|COMMON_PROXY_CLASS|field|com.rayeart.wordsounds.util.Reference|COMMON_PROXY_CLASS
+   @|com\rayeart\wordsounds\Main.java|1027|1038|CommonProxy|class|com.rayeart.wordsounds.proxy.CommonProxy
+   @|com\rayeart\wordsounds\Main.java|1039|1044|proxy|field|com.rayeart.wordsounds.Main|proxy|
+   Method Start: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\rayeart\wordsounds\Main.java|1111|1116|event|param|com.rayeart.wordsounds.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\rayeart\wordsounds\Main.java|1051|1063|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\rayeart\wordsounds\Main.java|1077|1084|PreInit|method|com.rayeart.wordsounds.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\rayeart\wordsounds\Main.java|1085|1110|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+   Method End: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\rayeart\wordsounds\Main.java|1185|1190|event|param|com.rayeart.wordsounds.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\rayeart\wordsounds\Main.java|1131|1143|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\rayeart\wordsounds\Main.java|1157|1161|init|method|com.rayeart.wordsounds.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\rayeart\wordsounds\Main.java|1162|1184|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\rayeart\wordsounds\Main.java|1193|1208|RegistryHandler|class|com.rayeart.wordsounds.util.handlers.RegistryHandler
+      @|com\rayeart\wordsounds\Main.java|1209|1223|initRegistries|method|com.rayeart.wordsounds.util.handlers.RegistryHandler|initRegistries|()V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   @|com\rayeart\wordsounds\Main.java|1238|1252|MinecraftForge|class|net.minecraftforge.common.MinecraftForge
+   @|com\rayeart\wordsounds\Main.java|1253|1262|EVENT_BUS|field|net.minecraftforge.common.MinecraftForge|EVENT_BUS
+   @|com\rayeart\wordsounds\Main.java|1263|1271|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+   @|com\rayeart\wordsounds\Main.java|1276|1291|ChatTestHandler|class|com.rayeart.wordsounds.util.handlers.ChatTestHandler
+   @|com\rayeart\wordsounds\Main.java|1302|1316|MinecraftForge|class|net.minecraftforge.common.MinecraftForge
+   @|com\rayeart\wordsounds\Main.java|1317|1326|EVENT_BUS|field|net.minecraftforge.common.MinecraftForge|EVENT_BUS
+   @|com\rayeart\wordsounds\Main.java|1327|1335|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+   @|com\rayeart\wordsounds\Main.java|1340|1353|SoundsHandler|class|com.rayeart.wordsounds.util.handlers.SoundsHandler
+   Method Start: Postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\rayeart\wordsounds\Main.java|1435|1440|event|param|com.rayeart.wordsounds.Main|Postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com\rayeart\wordsounds\Main.java|1366|1378|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\rayeart\wordsounds\Main.java|1399|1407|Postinit|method|com.rayeart.wordsounds.Main|Postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\rayeart\wordsounds\Main.java|1408|1434|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: Postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.rayeart.wordsounds.Main
+endProcessing "com\rayeart\wordsounds\Main.java"
+
+startProcessing "com\rayeart\wordsounds\proxy\ClientProxy.java" md5: 2e24c22920d221616dc24bc6605fae86
+@|com\rayeart\wordsounds\proxy\ClientProxy.java|8|36|com.rayeart.wordsounds.proxy|package|com.rayeart.wordsounds.proxy|(file)
+Class Start: com.rayeart.wordsounds.proxy.ClientProxy
+   @|com\rayeart\wordsounds\proxy\ClientProxy.java|53|64|ClientProxy|class|com.rayeart.wordsounds.proxy.ClientProxy
+   @|com\rayeart\wordsounds\proxy\ClientProxy.java|73|84|CommonProxy|class|com.rayeart.wordsounds.proxy.CommonProxy
+Class End  : com.rayeart.wordsounds.proxy.ClientProxy
+endProcessing "com\rayeart\wordsounds\proxy\ClientProxy.java"
+
+startProcessing "com\rayeart\wordsounds\proxy\CommonProxy.java" md5: 06efd7f0034486baa3b1ebe5db6bf1d8
+@|com\rayeart\wordsounds\proxy\CommonProxy.java|8|36|com.rayeart.wordsounds.proxy|package|com.rayeart.wordsounds.proxy|(file)
+Class Start: com.rayeart.wordsounds.proxy.CommonProxy
+   @|com\rayeart\wordsounds\proxy\CommonProxy.java|85|96|CommonProxy|class|com.rayeart.wordsounds.proxy.CommonProxy
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\rayeart\wordsounds\proxy\CommonProxy.java|139|143|item|param|com.rayeart.wordsounds.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com\rayeart\wordsounds\proxy\CommonProxy.java|149|153|meta|param|com.rayeart.wordsounds.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com\rayeart\wordsounds\proxy\CommonProxy.java|162|164|id|param|com.rayeart.wordsounds.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com\rayeart\wordsounds\proxy\CommonProxy.java|113|133|registerItemRenderer|method|com.rayeart.wordsounds.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\rayeart\wordsounds\proxy\CommonProxy.java|134|138|Item|class|net.minecraft.item.Item
+      @|com\rayeart\wordsounds\proxy\CommonProxy.java|155|161|String|class|java.lang.String
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.rayeart.wordsounds.proxy.CommonProxy
+endProcessing "com\rayeart\wordsounds\proxy\CommonProxy.java"
+
+startProcessing "com\rayeart\wordsounds\util\Reference.java" md5: abddce4682dbd43d48b8e422f8a3e7ff
+@|com\rayeart\wordsounds\util\Reference.java|8|35|com.rayeart.wordsounds.util|package|com.rayeart.wordsounds.util|(file)
+Class Start: com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\util\Reference.java|51|60|Reference|class|com.rayeart.wordsounds.util.Reference
+   @|com\rayeart\wordsounds\util\Reference.java|85|91|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|85|91|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|92|98|MOD_ID|field|com.rayeart.wordsounds.util.Reference|MOD_ID|
+   @|com\rayeart\wordsounds\util\Reference.java|129|135|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|129|135|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|136|140|NAME|field|com.rayeart.wordsounds.util.Reference|NAME|
+   @|com\rayeart\wordsounds\util\Reference.java|179|185|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|179|185|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|186|193|VERSION|field|com.rayeart.wordsounds.util.Reference|VERSION|
+   @|com\rayeart\wordsounds\util\Reference.java|224|230|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|224|230|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|231|248|ACCEPTED_VERSIONS|field|com.rayeart.wordsounds.util.Reference|ACCEPTED_VERSIONS|
+   @|com\rayeart\wordsounds\util\Reference.java|284|290|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|284|290|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|291|309|CLIENT_PROXY_CLASS|field|com.rayeart.wordsounds.util.Reference|CLIENT_PROXY_CLASS|
+   @|com\rayeart\wordsounds\util\Reference.java|377|383|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|377|383|String|class|java.lang.String
+   @|com\rayeart\wordsounds\util\Reference.java|384|402|COMMON_PROXY_CLASS|field|com.rayeart.wordsounds.util.Reference|COMMON_PROXY_CLASS|
+Class End  : com.rayeart.wordsounds.util.Reference
+endProcessing "com\rayeart\wordsounds\util\Reference.java"
+
+startProcessing "com\rayeart\wordsounds\util\handlers\ChatTestHandler.java" md5: d88836bd1175c0a836a14fcf9445bea2
+@|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|8|44|com.rayeart.wordsounds.util.handlers|package|com.rayeart.wordsounds.util.handlers|(file)
+Class Start: com.rayeart.wordsounds.util.handlers.ChatTestHandler
+   @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|454|469|ChatTestHandler|class|com.rayeart.wordsounds.util.handlers.ChatTestHandler
+   Method Start: ListenChat(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|564|569|event|param|com.rayeart.wordsounds.util.handlers.ChatTestHandler|ListenChat|(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V|event|0
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|476|490|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|493|501|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|502|506|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|507|513|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|529|539|ListenChat|method|com.rayeart.wordsounds.util.handlers.ChatTestHandler|ListenChat|(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|540|563|ClientChatReceivedEvent|class|net.minecraftforge.client.event.ClientChatReceivedEvent
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|581|590|Minecraft|class|net.minecraft.client.Minecraft
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|598|607|Minecraft|class|net.minecraft.client.Minecraft
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|608|620|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|632|646|EntityPlayerSP|class|net.minecraft.client.entity.EntityPlayerSP
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|661|667|player|field|net.minecraft.client.Minecraft|player
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|681|686|event|param|com.rayeart.wordsounds.util.handlers.ChatTestHandler|ListenChat|(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V|event|0
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|687|697|getMessage|method|net.minecraftforge.client.event.ClientChatReceivedEvent|getMessage|()Lnet/minecraft/util/text/ITextComponent;
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|700|718|getUnformattedText|method|net.minecraft.util.text.ITextComponent|getUnformattedText|()Ljava/lang/String;
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|721|732|toLowerCase|method|java.lang.String|toLowerCase|()Ljava/lang/String;
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|735|743|contains|method|java.lang.String|contains|(Ljava/lang/CharSequence;)Z
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|763|769|System|class|java.lang.System
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|770|773|out|field|java.lang.System|out
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|774|781|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|811|820|playSound|method|net.minecraft.entity.Entity|playSound|(Lnet/minecraft/util/SoundEvent;FF)V
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|821|834|SoundsHandler|class|com.rayeart.wordsounds.util.handlers.SoundsHandler
+      @|com\rayeart\wordsounds\util\handlers\ChatTestHandler.java|835|843|chat_oof|field|com.rayeart.wordsounds.util.handlers.SoundsHandler|chat_oof
+   Method End: ListenChat(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V
+Class End  : com.rayeart.wordsounds.util.handlers.ChatTestHandler
+endProcessing "com\rayeart\wordsounds\util\handlers\ChatTestHandler.java"
+
+startProcessing "com\rayeart\wordsounds\util\handlers\RegistryHandler.java" md5: 297e25025ff23ae89e10353d28126dd7
+@|com\rayeart\wordsounds\util\handlers\RegistryHandler.java|8|44|com.rayeart.wordsounds.util.handlers|package|com.rayeart.wordsounds.util.handlers|(file)
+Class Start: com.rayeart.wordsounds.util.handlers.RegistryHandler
+   @|com\rayeart\wordsounds\util\handlers\RegistryHandler.java|110|128|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
+   @|com\rayeart\wordsounds\util\handlers\RegistryHandler.java|142|157|RegistryHandler|class|com.rayeart.wordsounds.util.handlers.RegistryHandler
+   Method Start: initRegistries()V
+      @|com\rayeart\wordsounds\util\handlers\RegistryHandler.java|181|195|initRegistries|method|com.rayeart.wordsounds.util.handlers.RegistryHandler|initRegistries|()V
+      @|com\rayeart\wordsounds\util\handlers\RegistryHandler.java|203|216|SoundsHandler|class|com.rayeart.wordsounds.util.handlers.SoundsHandler
+      @|com\rayeart\wordsounds\util\handlers\RegistryHandler.java|217|231|registerSounds|method|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSounds|()V
+   Method End: initRegistries()V
+Class End  : com.rayeart.wordsounds.util.handlers.RegistryHandler
+endProcessing "com\rayeart\wordsounds\util\handlers\RegistryHandler.java"
+
+startProcessing "com\rayeart\wordsounds\util\handlers\SoundsHandler.java" md5: 61060daa98ae48f3ecd83c011b3b158b
+@|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|8|44|com.rayeart.wordsounds.util.handlers|package|com.rayeart.wordsounds.util.handlers|(file)
+Class Start: com.rayeart.wordsounds.util.handlers.SoundsHandler
+   @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|253|266|SoundsHandler|class|com.rayeart.wordsounds.util.handlers.SoundsHandler
+   @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|284|294|SoundEvent|class|net.minecraft.util.SoundEvent
+   @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|284|294|SoundEvent|class|net.minecraft.util.SoundEvent
+   @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|295|303|chat_oof|field|com.rayeart.wordsounds.util.handlers.SoundsHandler|chat_oof|
+   Method Start: registerSounds()V
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|327|341|registerSounds|method|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSounds|()V
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|349|357|chat_oof|field|com.rayeart.wordsounds.util.handlers.SoundsHandler|chat_oof
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|360|373|registerSound|method|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSound|(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;
+   Method End: registerSounds()V
+   Method Start: registerSound(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|440|444|name|param|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSound|(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;|name|0
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|408|418|SoundEvent|class|net.minecraft.util.SoundEvent
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|419|432|registerSound|method|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSound|(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|433|439|String|class|java.lang.String
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|451|467|ResourceLocation|class|net.minecraft.util.ResourceLocation
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|483|499|ResourceLocation|class|net.minecraft.util.ResourceLocation
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|500|509|Reference|class|com.rayeart.wordsounds.util.Reference
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|510|516|MOD_ID|field|com.rayeart.wordsounds.util.Reference|MOD_ID
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|518|522|name|param|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSound|(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;|name|0
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|527|537|SoundEvent|class|net.minecraft.util.SoundEvent
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|550|560|SoundEvent|class|net.minecraft.util.SoundEvent
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|580|595|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|596|600|name|param|com.rayeart.wordsounds.util.handlers.SoundsHandler|registerSound|(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;|name|0
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|605|620|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|621|633|SOUND_EVENTS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|SOUND_EVENTS
+      @|com\rayeart\wordsounds\util\handlers\SoundsHandler.java|634|642|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+   Method End: registerSound(Ljava/lang/String;)Lnet/minecraft/util/SoundEvent;
+Class End  : com.rayeart.wordsounds.util.handlers.SoundsHandler
+endProcessing "com\rayeart\wordsounds\util\handlers\SoundsHandler.java"
+
