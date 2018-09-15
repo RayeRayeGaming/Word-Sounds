@@ -147,7 +147,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_cFfqs7YNEeiUON7xWuKY6Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ChatTestHandler.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatTestHandler.java&quot; partName=&quot;ChatTestHandler.java&quot; title=&quot;ChatTestHandler.java&quot; tooltip=&quot;Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/ChatTestHandler.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/ChatTestHandler.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;764&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ChatTestHandler.java&quot; partName=&quot;ChatTestHandler.java&quot; title=&quot;ChatTestHandler.java&quot; tooltip=&quot;Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/ChatTestHandler.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/ChatTestHandler.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;772&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -171,7 +171,7 @@
           </menus>
         </children>
         <children xsi:type="basic:Part" xmi:id="_cFfqt7YNEeiUON7xWuKY6Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="RegistryHandler.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RegistryHandler.java&quot; partName=&quot;RegistryHandler.java&quot; title=&quot;RegistryHandler.java&quot; tooltip=&quot;Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/RegistryHandler.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/RegistryHandler.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;247&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;RegistryHandler.java&quot; partName=&quot;RegistryHandler.java&quot; title=&quot;RegistryHandler.java&quot; tooltip=&quot;Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/RegistryHandler.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Word Sounds/src/main/java/com/rayeart/wordsounds/util/handlers/RegistryHandler.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -496,7 +496,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cFitwbYNEeiUON7xWuKY6Q" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_IitIoLiVEeiFI-8RMhR95A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_cFoNo7YNEeiUON7xWuKY6Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_xzNXQLinEeigX5qvI60A0Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_cFoNo7YNEeiUON7xWuKY6Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cFitzrYNEeiUON7xWuKY6Q" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -520,7 +520,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cFjUzbYNEeiUON7xWuKY6Q" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Ii25o7iVEeiFI-8RMhR95A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_cFnnjLYNEeiUON7xWuKY6Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_xzPzgbinEeigX5qvI60A0Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_cFnnjLYNEeiUON7xWuKY6Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cFjU2LYNEeiUON7xWuKY6Q" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

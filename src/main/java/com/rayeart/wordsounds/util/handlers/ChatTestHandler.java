@@ -16,8 +16,7 @@ public class ChatTestHandler {
 	 public void ListenChat(ClientChatReceivedEvent event) {
         Minecraft game = Minecraft.getMinecraft();
         EntityPlayerSP player = game.player;
-        if (event.getMessage().getUnformattedText().toLowerCase().contains("oof")) {
-        	System.out.println("got here");
+        if (event.getMessage().getUnformattedText().toLowerCase().contains(" oof")) {
         	player.playSound(SoundsHandler.chat_oof, 1, 1);
         }
 	}
