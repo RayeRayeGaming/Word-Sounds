@@ -1,0 +1,8 @@
+{
+"oof": { 
+        "category": "player", 
+        "sounds": ["oof"], 
+        "subtitle": "wo.subtitle.testSound" ,
+        "stream": true
+    }
+}

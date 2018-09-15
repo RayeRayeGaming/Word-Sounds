@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.Instance"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.proxy.CommonProxy"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.SidedProxy"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.event.FMLPreInitializationEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.EventHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.event.FMLInitializationEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.event.FMLPostInitializationEvent"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.Main"/>
+<fullyQualifiedTypeName name="net.minecraftforge.client.model.ModelLoader"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.block.model.ModelResourceLocation"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.init.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.RegistryEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraftforge.client.event.ModelRegistryEvent"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.util.IHasModel"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.items.ItemBase"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.client.event.ClientChatReceivedEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.EventBusSubscriber"/>
+<fullyQualifiedTypeName name="net.minecraft.world.World"/>
+<fullyQualifiedTypeName name="net.minecraft.client.audio.SoundManager"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.relauncher.SideOnly"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.ServerChatEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.capabilities.CapabilityManager"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.util.handlers.ChatTestHandler"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.util.handlers.SoundsHandler"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.util.handlers.RegistryHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.client.entity.EntityPlayerSP"/>
+<fullyQualifiedTypeName name="net.minecraft.client.multiplayer.WorldClient"/>
+<fullyQualifiedTypeName name="net.minecraft.util.math.BlockPos"/>
+<fullyQualifiedTypeName name="net.minecraft.util.SoundEvent"/>
+<fullyQualifiedTypeName name="com.rayeart.wordsounds.util.Reference"/>
+<fullyQualifiedTypeName name="net.minecraft.util.ResourceLocation"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.ForgeRegistries"/>
+<fullyQualifiedTypeName name="net.minecraft.util.SoundCategory"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,29 @@
+package com.rayeart.wordsounds.util.handlers;
+
+import com.rayeart.wordsounds.util.Reference;
+
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.util.SoundEvent;
+
+public class SoundsHandler {
+
+public static SoundEvent oof;
+
+private static int size = 0;
+
+public static void init() {
+	size = SoundEvent.REGISTRY.getKeys().size();
+
+	oof = register(null, "oof");
+}
+
+public static SoundEvent register(String folder, String name) {
+	ResourceLocation location = new ResourceLocation(Reference.MOD_ID + ":" + name);
+	SoundEvent event = new SoundEvent(location);
+
+	SoundEvent.REGISTRY.register(size, location, event);
+	size++;
+	return event;
+}
+
+}

@@ -1,21 +1,9 @@
 
-run/
 
-eclipse/
-
-\.metadata/
-
-\.gradle/
-
-\.settings/
 
 Word-Sounds_Client\.launch
 
 Word-Sounds_Server\.launch
-
-\.project
-
-\.classpath
 
 WordSounds_Client\.launch
 

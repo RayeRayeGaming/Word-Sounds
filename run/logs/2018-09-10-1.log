@@ -1,0 +1,173 @@
+[22:53:30] [main/INFO] [GradleStart]: Extra: []
+[22:53:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Haley/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[22:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:53:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[22:53:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_181, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_181
+[22:53:30] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[22:53:30] [main/ERROR] [FML]: Full: C:\Users\Haley\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[22:53:30] [main/ERROR] [FML]: Trimmed: c:/users/haley/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[22:53:30] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[22:53:30] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[22:53:30] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[22:53:30] [main/INFO] [FML]: Searching C:\Users\Haley\Desktop\Minecraft Modding\WordSounds\run\.\mods for mods
+[22:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:53:30] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[22:53:30] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[22:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:53:36] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[22:53:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:53:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:53:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:53:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:53:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:53:37] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:53:39] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player848
+[22:53:47] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:53:47] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[22:53:49] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_181, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 720635816 bytes (687 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 398.82' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+[22:53:49] [main/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[22:53:49] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:53:49] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[22:53:50] [main/INFO] [FML]: Searching C:\Users\Haley\Desktop\Minecraft Modding\WordSounds\run\.\mods for mods
+[22:53:52] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 472719899 nanos
+[22:53:53] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[22:53:54] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, wsm] at CLIENT
+[22:53:54] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, wsm] at SERVER
+[22:53:56] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Word Sounds
+[22:53:57] [main/INFO] [FML]: Processing ObjectHolder annotations
+[22:53:57] [main/INFO] [FML]: Found 1168 ObjectHolder annotations
+[22:53:57] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:53:57] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:53:57] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:53:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:53:57] [main/INFO] [FML]: Applying holder lookups
+[22:53:57] [main/INFO] [FML]: Holder lookups applied
+[22:53:57] [main/INFO] [FML]: Applying holder lookups
+[22:53:57] [main/INFO] [FML]: Holder lookups applied
+[22:53:57] [main/INFO] [FML]: Applying holder lookups
+[22:53:57] [main/INFO] [FML]: Holder lookups applied
+[22:53:57] [main/INFO] [FML]: Applying holder lookups
+[22:53:57] [main/INFO] [FML]: Holder lookups applied
+[22:53:57] [main/INFO] [FML]: Injecting itemstacks
+[22:53:57] [main/INFO] [FML]: Itemstack injection complete
+[22:53:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[22:54:04] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[22:54:04] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[22:54:04] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:54:05] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[22:54:05] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[22:54:16] [main/INFO] [FML]: Max texture size: 16384
+[22:54:17] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[22:54:22] [main/INFO] [FML]: Applying holder lookups
+[22:54:22] [main/INFO] [FML]: Holder lookups applied
+[22:54:22] [main/INFO] [FML]: Injecting itemstacks
+[22:54:22] [main/INFO] [FML]: Itemstack injection complete
+[22:54:23] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[22:54:23] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:54:23] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[22:54:25] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[22:54:31] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[22:54:31] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[22:54:32] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:54:32] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:32] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:33] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@7b59c5f1)
+[22:54:34] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[22:54:34] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@7b59c5f1)
+[22:54:34] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@7b59c5f1)
+[22:54:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:54:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[22:54:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
+[22:54:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
+[22:54:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:54:38] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:54:38] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[22:54:43] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[22:54:43] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[22:54:43] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,wsm@1.0,FML@8.0.99.99,forge@14.23.4.2705,mcp@9.42
+[22:54:43] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[22:54:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:54:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player848[local:E:c2b45bf7] logged in with entity id 396 at (25.349905092226802, 72.61813811185147, 320.4073626847498)
+[22:54:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player848 joined the game
+[22:54:47] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:54:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:54:48] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@66382df4[id=671fc71d-f6cb-3d6a-91ee-4151a2cbcf9a,name=Player848,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3178) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_181]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[22:55:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: <Player848> oof
+[22:55:01] [main/INFO] [STDOUT]: [com.rayeart.wordsounds.util.handlers.ChatTestHandler:ListenChat:18]: got here
+[22:55:01] [main/WARN] [net.minecraft.client.audio.SoundManager]: Unable to play unknown soundEvent: wsm:music.oof
+[22:55:01] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] <Player848> oof
+[22:55:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:55:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:55:54] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: playsound wsm:oof music
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at net.minecraft.command.CommandPlaySound.execute(CommandPlaySound.java:62) ~[CommandPlaySound.class:?]
+	at net.minecraft.command.CommandHandler.tryExecute(CommandHandler.java:126) [CommandHandler.class:?]
+	at net.minecraft.command.CommandHandler.executeCommand(CommandHandler.java:98) [CommandHandler.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.handleSlashCommand(NetHandlerPlayServer.java:1001) [NetHandlerPlayServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.processChatMessage(NetHandlerPlayServer.java:977) [NetHandlerPlayServer.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.processPacket(CPacketChatMessage.java:47) [CPacketChatMessage.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.processPacket(CPacketChatMessage.java:8) [CPacketChatMessage.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:21) [PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_181]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_181]
+	at net.minecraft.util.Util.runTask(Util.java:53) [Util.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:798) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192) [IntegratedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[22:55:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] An unknown error occurred while attempting to perform this command
+[22:56:01] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player 'FireControl' cannot be found
+[22:56:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player848: Played sound 'wsm:oof' to Player848]
+[22:56:09] [main/WARN] [net.minecraft.client.audio.SoundManager]: Unable to play unknown soundEvent: wsm:oof
+[22:56:09] [main/INFO] [STDOUT]: [com.rayeart.wordsounds.util.handlers.ChatTestHandler:ListenChat:18]: got here
+[22:56:09] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Played sound 'wsm:oof' to Player848
+[22:56:14] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:56:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:56:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player848: Played sound 'wsm:oof' to Player848]
+[22:56:24] [main/INFO] [STDOUT]: [com.rayeart.wordsounds.util.handlers.ChatTestHandler:ListenChat:18]: got here
+[22:56:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Played sound 'wsm:oof' to Player848
+[22:56:42] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:56:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[22:59:02] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:59:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld

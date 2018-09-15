@@ -1,0 +1,8 @@
+{
+    "chat_oof"
+    {
+      "category": "master",
+      "subtitle": "chat.oof",
+      "sounds": [{"name": "wsm:assets/wsm/sounds/chat/oof", "stream": true}]
+    }
+}

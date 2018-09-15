@@ -1,0 +1,5 @@
+package com.rayeart.wordsounds.items;
+
+public class ItemBase {
+
+}

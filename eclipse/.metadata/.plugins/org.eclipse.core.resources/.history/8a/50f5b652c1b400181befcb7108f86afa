@@ -1,0 +1,5 @@
+package com.rayeart.wordsounds.util;
+
+public interface IHasModel {
+
+}

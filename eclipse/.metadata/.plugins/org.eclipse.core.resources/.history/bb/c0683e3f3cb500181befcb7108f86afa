@@ -1,0 +1,35 @@
+package com.rayeart.wordsounds.util.handlers;
+
+import net.minecraft.client.audio.SoundManager;
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.util.SoundEvent;
+import net.minecraft.world.World;
+import net.minecraftforge.client.event.ClientChatReceivedEvent;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.registry.ForgeRegistries;
+
+import com.rayeart.wordsounds.util.Reference;
+
+public class ChatTestHandler {
+	
+    public void ListenChat(ClientChatReceivedEvent event) {
+    	String message = (event.getMessage().getUnformattedText() );
+        if (message.contains("oof"))
+    {
+    	public static SoundEvent CHAT_OOF; 
+    	public static void registerSounds()
+    	{
+    		CHAT_OOF = registerSound("chat.oof");
+    	}
+    	private static SoundEvent registerSound(String name)
+    	{
+    		ResourceLocation location = new ResourceLocation(Reference.MOD_ID, name);
+    		SoundEvent event = new SoundEvent(location);
+    		event.setRegistryName(name);
+    		ForgeRegistries.SOUND_EVENTS.register(event);
+    		return event;
+        }
+  
+    }
+
+}

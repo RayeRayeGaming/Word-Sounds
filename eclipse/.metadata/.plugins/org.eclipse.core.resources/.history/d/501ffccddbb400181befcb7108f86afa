@@ -1,0 +1,17 @@
+package com.rayeart.wordsounds.init;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.rayeart.wordsounds.items.ItemBase;
+
+import net.minecraft.item.Item;
+
+public class ModItems 
+{
+
+	public static final List<Item> ITEMS = new ArrayList<Item>();
+	
+	public static final Item RAYEZ_STAFF = new ItemBase("rayez_staff");
+	
+}

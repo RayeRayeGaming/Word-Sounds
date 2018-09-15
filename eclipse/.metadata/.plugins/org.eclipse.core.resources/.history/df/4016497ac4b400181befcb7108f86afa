@@ -1,0 +1,15 @@
+package com.rayeart.wordsounds.util.handlers;
+
+import com.rayeart.wordsounds.init.ModItems;
+
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
+
+@EventBusSubscriber
+public class RegistryHandler 
+{
+	@SubscribeEvent
+	public static void onItemRegister(RegistryEvent.Register<Item> event)
+	{
+		event.getRegistry().registerAll(ModItems.ITEMS.toArray(new Item[0]));
+	}
+}

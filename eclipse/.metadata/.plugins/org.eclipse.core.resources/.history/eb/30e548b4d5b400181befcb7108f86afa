@@ -1,0 +1,17 @@
+package com.rayeart.wordsounds.util.handlers;
+
+import net.minecraftforge.client.event.ClientChatReceivedEvent;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+
+public class ChatTestHandler {
+	
+    @SubscribeEvent
+    public void ListenChat(ClientChatReceivedEvent e) {
+        //get the initial message
+        String s = e.message.getFormattedText("Oof");
+        //change it however you'd like
+        
+
+    }
+
+}

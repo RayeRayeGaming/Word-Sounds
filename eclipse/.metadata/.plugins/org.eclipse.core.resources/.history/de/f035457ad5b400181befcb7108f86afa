@@ -1,0 +1,5 @@
+package com.rayeart.wordsounds.util.handlers;
+
+public class ChatTestHandler {
+
+}

@@ -1,0 +1,8 @@
+{
+    "chat.oof"
+    {
+      "category": "master",
+      "subtitle": "chat.oof",
+      "sounds": [{"name": "wsm.chat.oof", "stream": true}]
+    }
+}

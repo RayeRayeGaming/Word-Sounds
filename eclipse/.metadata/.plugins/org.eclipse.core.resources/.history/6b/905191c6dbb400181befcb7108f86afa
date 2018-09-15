@@ -1,0 +1,27 @@
+package com.rayeart.wordsounds.items;
+
+import com.rayeart.wordsounds.Main;
+import com.rayeart.wordsounds.init.ModItems;
+import com.rayeart.wordsounds.util.IHasModel;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class ItemBase extends Item implements IHasModel {
+
+	public ItemBase(String name)
+	{
+		setUnlocalizedName(name);
+		setRegistryName(name);
+		setCreativeTab(CreativeTabs.MATERIALS);
+		
+		ModItems.ITEMS.add(this);
+	}
+	
+	@Override
+	public void registerModels() 
+	{
+		Main.proxy.registerItemRenderer(this, 0, "inventory");
+	}
+
+}

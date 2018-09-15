@@ -1,0 +1,8 @@
+{
+  "chat_oof": {
+	    "category": "music",
+	    "sounds": ["wsm:words/oof"],
+	    "subtitle": "testsound",
+	    "stream": true
+  }
+}

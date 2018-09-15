@@ -1,0 +1,11 @@
+{
+  "chat_oof": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "wsm:music/oof",
+        "stream": true
+      }
+    ]
+  }
+}

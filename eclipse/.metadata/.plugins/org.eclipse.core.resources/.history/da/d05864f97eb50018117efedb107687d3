@@ -1,0 +1,8 @@
+{
+"oof": { 
+        "category": "hostile", 
+        "sounds": ["word/oof"], 
+        "subtitle": "wo.subtitle.testSound" ,
+        "stream": true
+    }
+}

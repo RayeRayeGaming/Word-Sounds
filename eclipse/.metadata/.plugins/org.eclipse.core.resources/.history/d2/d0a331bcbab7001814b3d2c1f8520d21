@@ -1,0 +1,22 @@
+package com.rayeart.wordsounds.util.handlers;
+
+import com.rayeart.wordsounds.util.Reference;
+
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.util.SoundEvent;
+import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+
+public class SoundsHandler{
+
+@SubscribeEvent
+public void register(RegistryEvent.Register<SoundEvent> event) {
+    event.getRegistry().registerAll(
+        create("oof")
+    );
+}
+
+private static SoundEvent create(String name) {
+    return new SoundEvent(new ResourceLocation(Reference.MOD_ID, name)).setRegistryName(name);
+}
+}

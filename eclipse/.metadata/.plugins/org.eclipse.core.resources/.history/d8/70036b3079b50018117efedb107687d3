@@ -1,0 +1,8 @@
+{
+"oof": { 
+        "category": "player", 
+        "sounds": ["wsm:oof"], 
+        "subtitle": "testmodclient.subtitle.testSound" ,
+        "stream": true
+    }
+}
